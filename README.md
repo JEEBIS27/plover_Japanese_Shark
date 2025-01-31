@@ -1,1 +1,3 @@
-# plover_Japanese_Shark
+# Plover_Japanese_Shark
+Ploverを意識した日本語配列
+Plover English stenographyに慣れている人が移行しやすいように考えて作っています

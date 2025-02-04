@@ -38,7 +38,7 @@ def lookup(key):
     listconsonant = ["","T","K","H","S","TH","KS","TS","TK","HS","TKHS","KH","TKH","KHS","THS","TKS"]
 
     Vowels =    ["a","i","o","u","ya","e","yo","yu"]
-    listvowel = ["","I","O","IO","Y","YI","YO","YAO"]
+    listvowel = ["","I","O","IO","Y","YI","YO","YIO"]
 
     def Make(Conso,Vowel):
 
